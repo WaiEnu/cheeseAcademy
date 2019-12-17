@@ -3,13 +3,14 @@
   margin: 0 0 .25rem;
 }
 .calendar-table {
+  width: 98%;
   margin: 0 auto;
 }
 .calendar-table .is-today {
   color: red;
 }
 .calendar-table td {
-  width: 2rem;
+  width: 14%;
   height: 2rem;
   line-height: 2rem;
   text-align: center;
